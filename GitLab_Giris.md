@@ -1,4 +1,6 @@
 # GitLab Hakkında
+> [mertugral](https://github.com/ertugralmert)
+> [linkedin](https://www.linkedin.com/in/mertertugral/)
 > Bu doküman sadece giriş seviyesinde kafanızda bir şeyler canlanması için hazırlanmıştır. Pratik yaparak GitLab dökümanlarını inceleyerek daha derin bilgiler elde edebilirsiniz.
 
 ## GitLab Nedir?
@@ -667,3 +669,4 @@ Branch ve merge işlemleri, yazılım geliştirme sürecinin kritik parçalarıd
 
 ----
 > [mertugral](https://github.com/ertugralmert)
+> [linkedin](https://www.linkedin.com/in/mertertugral/)
