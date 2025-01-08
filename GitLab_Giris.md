@@ -665,6 +665,5 @@ Branch ve merge işlemleri, yazılım geliştirme sürecinin kritik parçalarıd
 - Takım çalışması kolaylaşır
 - Deployment süreci güvenli hale gelir
 
-Bu dokümanı bir rehber olarak kullanabilir, kendi projenize uygun stratejileri belirleyebilirsiniz.
 ----
 
