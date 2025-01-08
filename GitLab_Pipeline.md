@@ -1,4 +1,7 @@
 # GitLab CI/CD Pipeline Detaylı Rehber
+> [mertugral](https://github.com/ertugralmert)
+ 
+> [linkedin](https://www.linkedin.com/in/mertertugral/)
 
 
 ## Bölüm 1: Pipeline Nedir?
@@ -560,5 +563,6 @@ default:
 
 
 ----
-> mertugral 
-
+> [mertugral](https://github.com/ertugralmert)
+ 
+> [linkedin](https://www.linkedin.com/in/mertertugral/)
