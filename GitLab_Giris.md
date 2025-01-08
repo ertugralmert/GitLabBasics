@@ -1,6 +1,22 @@
 # GitLab Hakkında
 > Bu doküman sadece giriş seviyesinde kafanızda bir şeyler canlanması için hazırlanmıştır. Pratik yaparak GitLab dökümanlarını inceleyerek daha derin bilgiler elde edebilirsiniz.
 
+## GitLab Nedir?
+
+
+GitLab, yazılım geliştirme süreçlerini tek bir platformda toplayan, açık kaynaklı bir DevOps platformudur.  
+Git tabanlı versiyon kontrol sistemini temel alarak, proje yönetimi, continuous integration (CI), continuous deployment (CD), monitoring ve security gibi birçok özelliği içinde barındırır.
+
+### GitLab'ın Temel Özellikleri:
+
+- Source Code Management (SCM)
+- Issue Tracking
+- CI/CD Pipeline Yönetimi
+- Container Registry
+- Security Scanning
+- Wiki ve Documentation
+- Code Review ve Merge Request Yönetimi
+
 ## 1. En Temel Kavramlar
 
 
