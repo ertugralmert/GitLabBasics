@@ -666,4 +666,4 @@ Branch ve merge işlemleri, yazılım geliştirme sürecinin kritik parçalarıd
 - Deployment süreci güvenli hale gelir
 
 ----
-
+> [mertugral](https://github.com/ertugralmert)
